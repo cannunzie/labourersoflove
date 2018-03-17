@@ -1,0 +1,16 @@
+[26-Feb-2018 08:38:53 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/labourer/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/labourer/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[04-Mar-2018 11:38:36 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/labourer/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/labourer/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[06-Mar-2018 06:35:19 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/labourer/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/labourer/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[06-Mar-2018 15:42:59 Europe/Moscow] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/labourer/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/labourer/public_html/wp-content/themes/twentyfifteen/index.php on line 17
